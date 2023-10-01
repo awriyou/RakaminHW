@@ -1,0 +1,19 @@
+{
+  "name": "rakaminhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rumus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awriyou/RakaminHW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awriyou/RakaminHW/issues"
+  },
+  "homepage": "https://github.com/awriyou/RakaminHW#readme"
+}
